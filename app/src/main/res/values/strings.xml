@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="tab_text_1">Profile</string>
+    <string name="tab_text_2">Repositories</string>
+    <string name="usernameHint">Github Username</string>
+    <string name="usernameItem">Username</string>
+    <string name="nameItem">Name</string>
+    <string name="bioItem">Bio</string>
+    <string name="repoCountItem">Repositories</string>
+    <string name="locationItem">Location</string>
+</resources>
